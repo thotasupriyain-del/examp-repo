@@ -1,0 +1,35 @@
+AWS stands for Amazon Web Services.
+It is a cloud computing platform provided by Amazon that lets individuals and companies use computing resources over the internet, instead of buying and maintaining physical servers.
+In simple terms
+AWS allows you to:
+
+Store data
+Run applications
+Host websites
+Analyze data
+Use AI and machine learning
+—all online, paying only for what you use.
+
+Common AWS services
+
+EC2 – Virtual computers (servers) in the cloud
+S3 – Online storage for files, images, videos, backups
+RDS – Managed databases
+Lambda – Run code without managing servers
+CloudWatch – Monitoring and logging
+
+Why people use AWS
+
+✅ No need to buy hardware
+✅ Scales easily (small to very large apps)
+✅ High security and reliability
+✅ Pay-as-you-go pricing
+
+Who uses AWS
+
+Startups
+Large companies (Netflix, Airbnb, Amazon itself)
+Developers
+Students and researchers
+
+If you want, I can explain AWS from a student’s point of view, compare it with Azure or Google Cloud, or suggest AWS learning paths.
